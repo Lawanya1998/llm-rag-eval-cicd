@@ -1,0 +1,25 @@
+{"question": "How many days do I have to request a refund?", "reference": "You can request a refund within 30 days of a transaction.", "source": "refunds.md", "answerable": true}
+{"question": "How long do standard refunds take to process?", "reference": "Standard refunds are processed within 5 to 7 business days.", "source": "refunds.md", "answerable": true}
+{"question": "Are cryptocurrency purchases refundable?", "reference": "No, cryptocurrency purchases are final and cannot be refunded.", "source": "refunds.md", "answerable": true}
+{"question": "What happens for refunds on transactions over $2,000?", "reference": "Transactions over $2,000 require identity re-verification before the refund is approved.", "source": "refunds.md", "answerable": true}
+{"question": "How much does it cost to send money to another NimbusPay user?", "reference": "Sending money to another NimbusPay user is free.", "source": "fees.md", "answerable": true}
+{"question": "What is the fee for sending money to an external bank account?", "reference": "It costs 1.5% of the amount, capped at $10.", "source": "fees.md", "answerable": true}
+{"question": "Is there a monthly fee for personal accounts?", "reference": "No, there is no monthly account fee on personal accounts.", "source": "fees.md", "answerable": true}
+{"question": "How much do business accounts pay per month?", "reference": "Business accounts pay a flat $15 per month plus standard transfer fees.", "source": "fees.md", "answerable": true}
+{"question": "How much can I withdraw from ATMs for free each month?", "reference": "The first $400 per month is free, after which a 2% fee applies.", "source": "fees.md", "answerable": true}
+{"question": "Is two-factor authentication required?", "reference": "Yes, 2FA is required on all accounts.", "source": "security.md", "answerable": true}
+{"question": "Will NimbusPay staff ever ask for my password?", "reference": "No, NimbusPay staff will never ask for your password or one-time code by phone or email.", "source": "security.md", "answerable": true}
+{"question": "How do I freeze my card?", "reference": "You can freeze your card instantly in the app under Card then Freeze.", "source": "security.md", "answerable": true}
+{"question": "Is customer support available at night?", "reference": "Yes, in-app chat support is available 24/7.", "source": "security.md", "answerable": true}
+{"question": "What is the weekly sending limit on a Basic account?", "reference": "Basic accounts have a sending limit of $1,000 per week.", "source": "accounts.md", "answerable": true}
+{"question": "What documents does a Verified account require?", "reference": "A Verified account requires a government ID.", "source": "accounts.md", "answerable": true}
+{"question": "What is the minimum age to use NimbusPay?", "reference": "You must be at least 18 years old.", "source": "accounts.md", "answerable": true}
+{"question": "Can I open two personal accounts?", "reference": "No, only one personal account is permitted; opening multiple may result in suspension.", "source": "accounts.md", "answerable": true}
+{"question": "Which countries is NimbusPay available in?", "reference": "The United States, Canada, and the United Kingdom.", "source": "accounts.md", "answerable": true}
+{"question": "What is the fee for instant transfers?", "reference": "Instant transfers carry an additional 0.5% fee on top of the standard fee.", "source": "fees.md", "answerable": true}
+{"question": "How can I request a refund in the app?", "reference": "Open the app, go to Activity, select the transaction, and choose Request Refund.", "source": "refunds.md", "answerable": true}
+{"question": "What is NimbusPay's current stock price?", "reference": "I don't have that information.", "source": null, "answerable": false}
+{"question": "Does NimbusPay offer mortgage loans?", "reference": "I don't have that information.", "source": null, "answerable": false}
+{"question": "Who is the CEO of NimbusPay?", "reference": "I don't have that information.", "source": null, "answerable": false}
+{"question": "Can I use NimbusPay in Australia?", "reference": "I don't have that information.", "source": null, "answerable": false}
+{"question": "What interest rate does NimbusPay pay on balances?", "reference": "I don't have that information.", "source": null, "answerable": false}
