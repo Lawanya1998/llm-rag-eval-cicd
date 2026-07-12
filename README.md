@@ -73,7 +73,7 @@ RESULT: FAIL - merge blocked
 Error: Process completed with exit code 1
 ```
 
-> _Add your screenshot of the failed GitHub Actions check here (e.g. `docs/gate-failure.png`)._
+![CI blocks a merge when hallucination rate exceeds the threshold](gate-failure-image.png)
 
 On the healthy `main` branch, all metrics pass and the check is green.
 
